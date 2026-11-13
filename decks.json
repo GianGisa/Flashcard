@@ -1,0 +1,329 @@
+{
+  "decks": [
+    {
+      "name": "Verbi irregolari",
+      "cards": [
+        {
+          "front": "be\n~essere",
+          "back": "~Past simple\nwas / were\n~Past participle\nbeen"
+        },
+        {
+          "front": "beat\n~battere",
+          "back": "~Past simple\nbeat\n~Past participle\nbeaten"
+        },
+        {
+          "front": "bite\n~mordere",
+          "back": "~Past simple\nbit\n~Past participle\nbitten"
+        },
+        {
+          "front": "become\n~diventare",
+          "back": "~Past simple\nbecame\n~Past participle\nbecome"
+        },
+        {
+          "front": "begin\n~iniziare",
+          "back": "~Past simple\nbegan\n~Past participle\nbegun"
+        },
+        {
+          "front": "bring\n~portare (qui)",
+          "back": "~Past simple\nbrought\n~Past participle\nbrought"
+        },
+        {
+          "front": "buy\n~comprare",
+          "back": "~Past simple\nbought\n~Past participle\nbought"
+        },
+        {
+          "front": "break\n~rompere",
+          "back": "~Past simple\nbroke\n~Past participle\nbroken"
+        },
+        {
+          "front": "build\n~costruire",
+          "back": "~Past simple\nbuilt\n~Past participle\nbuilt"
+        },
+        {
+          "front": "burn\n~bruciare",
+          "back": "~Past simple\nburnt\n~Past participle\nburnt"
+        },
+        {
+          "front": "catch\n~afferrare",
+          "back": "~Past simple\ncaught\n~Past participle\ncaught"
+        },
+        {
+          "front": "come\n~venire",
+          "back": "~Past simple\ncame\n~Past participle\ncome"
+        },
+        {
+          "front": "cut\n~tagliare",
+          "back": "~Past simple\ncut\n~Past participle\ncut"
+        },
+        {
+          "front": "choose\n~scegliere",
+          "back": "~Past simple\nchose\n~Past participle\nchosen"
+        },
+        {
+          "front": "do\n~fare (generico)",
+          "back": "~Past simple\ndid\n~Past participle\ndone"
+        },
+        {
+          "front": "draw\n~disegnare",
+          "back": "~Past simple\ndrew\n~Past participle\ndrawn"
+        },
+        {
+          "front": "dream\n~sognare",
+          "back": "~Past simple\ndreamt\n~Past participle\ndreamt"
+        },
+        {
+          "front": "drive\n~guidare",
+          "back": "~Past simple\ndrove\n~Past participle\ndriven"
+        },
+        {
+          "front": "drink\n~bere",
+          "back": "~Past simple\ndrank\n~Past participle\ndrunk"
+        },
+        {
+          "front": "eat\n~mangiare",
+          "back": "~Past simple\nate\n~Past participle\neaten"
+        },
+        {
+          "front": "fall\n~cadere",
+          "back": "~Past simple\nfell\n~Past participle\nfallen"
+        },
+        {
+          "front": "feed\n~dar da mangiare",
+          "back": "~Past simple\nfed\n~Past participle\nfed"
+        },
+        {
+          "front": "feel\n~sentire (sentimento)",
+          "back": "~Past simple\nfelt\n~Past participle\nfelt"
+        },
+        {
+          "front": "fight\n~combattere",
+          "back": "~Past simple\nfought\n~Past participle\nfought"
+        },
+        {
+          "front": "find\n~trovare",
+          "back": "~Past simple\nfound\n~Past participle\nfound"
+        },
+        {
+          "front": "fly\n~volare",
+          "back": "~Past simple\nflew\n~Past participle\nflown"
+        },
+        {
+          "front": "freeze\n~gelare",
+          "back": "~Past simple\nfroze\n~Past participle\nfrozen"
+        },
+        {
+          "front": "forbid\n~proibire",
+          "back": "~Past simple\nforbade\n~Past participle\nforbidden"
+        },
+        {
+          "front": "forget\n~dimenticare",
+          "back": "~Past simple\nforgot\n~Past participle\nforgotten"
+        },
+        {
+          "front": "forgive\n~perdonare",
+          "back": "~Past simple\nforgave\n~Past participle\nforgiven"
+        },
+        {
+          "front": "get\n~ottenere",
+          "back": "~Past simple\ngot\n~Past participle\ngot"
+        },
+        {
+          "front": "give\n~dare",
+          "back": "~Past simple\ngave\n~Past participle\ngiven"
+        },
+        {
+          "front": "go\n~andare",
+          "back": "~Past simple\nwent\n~Past participle\ngone / been"
+        },
+        {
+          "front": "grow\n~crescere",
+          "back": "~Past simple\ngrew\n~Past participle\ngrown"
+        },
+        {
+          "front": "hang\n~appendere",
+          "back": "~Past simple\nhung / hanged\n~Past participle\nhung / hanged"
+        },
+        {
+          "front": "have\n~avere",
+          "back": "~Past simple\nhad\n~Past participle\nhad"
+        },
+        {
+          "front": "hear\n~sentire (orecchio)",
+          "back": "~Past simple\nheard\n~Past participle\nheard"
+        },
+        {
+          "front": "hide\n~nascondersi",
+          "back": "~Past simple\nhid\n~Past participle\nhidden"
+        },
+        {
+          "front": "hit\n~colpire",
+          "back": "~Past simple\nhit\n~Past participle\nhit"
+        },
+        {
+          "front": "hold\n~tenere",
+          "back": "~Past simple\nheld\n~Past participle\nheld"
+        },
+        {
+          "front": "hurt\n~farsi male",
+          "back": "~Past simple\nhurt\n~Past participle\nhurt"
+        },
+        {
+          "front": "keep\n~conservare (tenere)",
+          "back": "~Past simple\nkept\n~Past participle\nkept"
+        },
+        {
+          "front": "know\n~conoscere",
+          "back": "~Past simple\nknew\n~Past participle\nknown"
+        },
+        {
+          "front": "leave\n~partire o lasciare",
+          "back": "~Past simple\nleft\n~Past participle\nleft"
+        },
+        {
+          "front": "lend\n~prestare",
+          "back": "~Past simple\nlent\n~Past participle\nlent"
+        },
+        {
+          "front": "lose\n~perdere",
+          "back": "~Past simple\nlost\n~Past participle\nlost"
+        },
+        {
+          "front": "lead\n~condurre",
+          "back": "~Past simple\nled\n~Past participle\nled"
+        },
+        {
+          "front": "learn\n~imparare",
+          "back": "~Past simple\nlearnt\n~Past participle\nlearnt"
+        },
+        {
+          "front": "make\n~fabbricare (fare)",
+          "back": "~Past simple\nmade\n~Past participle\nmade"
+        },
+        {
+          "front": "mean\n~significare",
+          "back": "~Past simple\nmeant\n~Past participle\nmeant"
+        },
+        {
+          "front": "meet\n~incontrare",
+          "back": "~Past simple\nmet\n~Past participle\nmet"
+        },
+        {
+          "front": "pay\n~pagare",
+          "back": "~Past simple\npaid\n~Past participle\npaid"
+        },
+        {
+          "front": "put\n~mettere",
+          "back": "~Past simple\nput\n~Past participle\nput"
+        },
+        {
+          "front": "read\n~leggere",
+          "back": "~Past simple\nread /red/\n~Past participle\nread /red/"
+        },
+        {
+          "front": "ride\n~cavalcare",
+          "back": "~Past simple\nrode\n~Past participle\nridden"
+        },
+        {
+          "front": "ring\n~suonare",
+          "back": "~Past simple\nrang\n~Past participle\nrung"
+        },
+        {
+          "front": "run\n~correre",
+          "back": "~Past simple\nran\n~Past participle\nrun"
+        },
+        {
+          "front": "sell\n~vendere",
+          "back": "~Past simple\nsold\n~Past participle\nsold"
+        },
+        {
+          "front": "send\n~inviare",
+          "back": "~Past simple\nsent\n~Past participle\nsent"
+        },
+        {
+          "front": "shoot\n~sparare",
+          "back": "~Past simple\nshot\n~Past participle\nshot"
+        },
+        {
+          "front": "sing\n~cantare",
+          "back": "~Past simple\nsang\n~Past participle\nsung"
+        },
+        {
+          "front": "sit\n~sedersi",
+          "back": "~Past simple\nsat\n~Past participle\nsat"
+        },
+        {
+          "front": "smell\n~odorare",
+          "back": "~Past simple\nsmelt\n~Past participle\nsmelt"
+        },
+        {
+          "front": "speak\n~parlare",
+          "back": "~Past simple\nspoke\n~Past participle\nspoken"
+        },
+        {
+          "front": "spend\n~trascorrere (o spendere)",
+          "back": "~Past simple\nspent\n~Past participle\nspent"
+        },
+        {
+          "front": "stand\n~stare in piedi",
+          "back": "~Past simple\nstood\n~Past participle\nstood"
+        },
+        {
+          "front": "steal\n~rubare",
+          "back": "~Past simple\nstole\n~Past participle\nstolen"
+        },
+        {
+          "front": "swim\n~nuotare",
+          "back": "~Past simple\nswam\n~Past participle\nswum"
+        },
+        {
+          "front": "say\n~dire",
+          "back": "~Past simple\nsaid\n~Past participle\nsaid"
+        },
+        {
+          "front": "see\n~vedere",
+          "back": "~Past simple\nsaw\n~Past participle\nseen"
+        },
+        {
+          "front": "sleep\n~dormire",
+          "back": "~Past simple\nslept\n~Past participle\nslept"
+        },
+        {
+          "front": "take\n~portare via / prendere",
+          "back": "~Past simple\ntook\n~Past participle\ntaken"
+        },
+        {
+          "front": "tell\n~dire (a qualcuno)",
+          "back": "~Past simple\ntold\n~Past participle\ntold"
+        },
+        {
+          "front": "think\n~pensare",
+          "back": "~Past simple\nthought\n~Past participle\nthought"
+        },
+        {
+          "front": "teach\n~insegnare",
+          "back": "~Past simple\ntaught\n~Past participle\ntaught"
+        },
+        {
+          "front": "understand\n~capire",
+          "back": "~Past simple\nunderstood\n~Past participle\nunderstood"
+        },
+        {
+          "front": "wake up\n~svegliare",
+          "back": "~Past simple\nwoke up\n~Past participle\nwoken up"
+        },
+        {
+          "front": "wear\n~indossare",
+          "back": "~Past simple\nwore\n~Past participle\nworn"
+        },
+        {
+          "front": "win\n~vincere",
+          "back": "~Past simple\nwon\n~Past participle\nwon"
+        },
+        {
+          "front": "write\n~scrivere",
+          "back": "~Past simple\nwrote\n~Past participle\nwritten"
+        }
+      ]
+    }
+  ]
+}
